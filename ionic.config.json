@@ -1,0 +1,7 @@
+{
+  "name": "baatchitt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
